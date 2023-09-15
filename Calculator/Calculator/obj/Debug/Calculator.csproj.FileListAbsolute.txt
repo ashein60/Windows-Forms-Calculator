@@ -1,0 +1,13 @@
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\turtlecat\Desktop\C#\me\Calculator\Calculator\obj\Debug\Calculator.ScreenModal.resources
+C:\Users\turtlecat\Desktop\Coding\Programs\Finished\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\turtlecat\Desktop\Coding\Programs\Finished\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\turtlecat\Desktop\Coding\Programs\Finished\Calculator\Calculator\obj\Debug\Calculator.pdb
